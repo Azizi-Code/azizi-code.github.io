@@ -1,10 +1,10 @@
-# Roohallah Azizi - .NET Developer
+# Roohallah Azizi - Senior .NET Developer
 
 ## Contact Information
 - **Mobile:** +905359641611
 - **Email:** Azizi.Code@gmail.com
 - **LinkedIn:** [linkedin.com/in/roohallah-azizi](https://linkedin.com/in/roohallah-azizi)
-- **GitHub:** [Github.com/Rhazizi](https://github.com/Azizi-Code)
+- **GitHub:** [Github.com/Azizi-Code](https://github.com/Azizi-Code)
 
 ## Summary
 .Net Developer with 8 years of experience in software development across logistics, insurance, hospital management, and web security scanning domains. Proficient in C#, .NET Core, .NET Framework, WinForms, and web development. Committed to lifelong learning and adept at problem-solving, teamwork, and effective communication.
@@ -16,7 +16,7 @@ C#, .NET Core, EF Core, .Net Framework, Web API, Web Development, Git, OOP, Unit
 ### Good Working Knowledge
 C++, ASP.Net MVC, HTML, CSS, JavaScript, Microservices, GitLab DI/CD, Docker, RabbitMQ, Rancher, Kubernetes, Redis, Azure, AWS, SQS, Xamarin, WCF, WPF, Windows Service, TDD, DDD, SQLite, IIS, NGINX, Windows, Linux, MacOS, Jira, Miro Boards, Slack.
 
-
+---
 ## Employment
 
 ### Senior .Net Developer (Feb 2022 – Present)
