@@ -21,6 +21,11 @@ C++, ASP.Net MVC, HTML, CSS, JavaScript, Microservices, GitLab DI/CD, Docker, Ra
 
 ### Senior .Net Developer (Feb 2022 – Present)
 **VirtuDev, Sweden (Remote)**
+
+Logistics Management Systems:
+The platform empowers companies to manage the entire logistics journey, from order to delivery and beyond. The
+platform includes Mobile and Web Applications.
+
 - Remotely collaborated with a Swedish team in an English-speaking setting, using Scrum, Miro boards, and Jira for efficient task management.
 - Developed high-performance .NET Core web APIs following Microservices and Clean Architecture, achieving a 20% reduction in response times.
 - Elevated code reliability with comprehensive tests (XUnit, Moq, NSubstitute), striving for TDD, and achieved over 90% test coverage.
@@ -36,6 +41,11 @@ C++, ASP.Net MVC, HTML, CSS, JavaScript, Microservices, GitLab DI/CD, Docker, Ra
 
 ### .NET Developer (Jul 2018 – Feb 2022)
 **Freelance, Turkey**
+
+Developed a variety of applications such as web, windows apps, and services for different customers. Developed a web
+application for managing patients' documents for hospitals. more than three hospitals have successfully
+implemented this solution, handling millions of documents and processing thousands of scanned pages daily.
+
 - Developed a user-friendly web application for hospitals by .Net Core 5 and Angular 11. The application allows them to scan, digitize, and manage patients' documents. Scan millions of documents each month.
 - Created an open-source service that connects web apps with scanners hardware, published on GitHub.
 - Used CQRS pattern, MediatR, and Entity framework core as the ORM for the data layer. 
@@ -50,6 +60,12 @@ C++, ASP.Net MVC, HTML, CSS, JavaScript, Microservices, GitLab DI/CD, Docker, Ra
 
 ### .NET Developer (Jan 2016 – Jul 2018)
 **Andishe, Iran**
+
+Web application security scanner platform:
+The platform helps companies identify vulnerabilities in web applications including SQL Injection, XSS, File Inclusion, etc.
+The application automatically scans the whole part of the web application by a crawler and tests against a variety of
+vulnerabilities. By providing detailed scan reports, it helps companies make their products more secure.
+
 - Contributed to the development of a large monolithic web security scanner app using C# and WinForms.
 - Worked on the application's core, following the onion architecture, and applied a range of design patterns, including composite, decorator, singleton, factory, builder, chain of responsibility, and facade.
 - Implemented file inclusion and refactoring of old SQL injection scanners in the core of the project.
@@ -65,7 +81,10 @@ C++, ASP.Net MVC, HTML, CSS, JavaScript, Microservices, GitLab DI/CD, Docker, Ra
 
 ### .NET Developer (Jan 2014 – Jan 2016)
 **Poya Ray, Iran**
- Worked as a backend developer, contributing to the development of web applications using ASP.NET.
+
+There was a collection of applications related to the organizing of insurance companies and their activities. 
+
+- Worked as a backend developer, contributing to the development of web applications using ASP.NET.
 - Developed RESTful APIs and web services for clients using the Microsoft Web API framework.
 - Participated in developing components for the business and data tiers using C#.Net and ADO.Net. 
 - Created database schemas, tables, views, triggers, and stored procedures in SQL Server 2008.
