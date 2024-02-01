@@ -23,7 +23,8 @@ C++, ASP.Net MVC, HTML, CSS, JavaScript, Microservices, GitLab DI/CD, Docker, Ra
 **Roomex, Ireland (Remote)**
 
 Manage workforce travel, accommodation & expenses System:
-Roomex, a forefront in workforce travel solutions, offers a user-centric platform with personalized hotel bookings, expense management, and real-time analytics. As a Senior .NET Software Engineer, played a pivotal role in enhancing and innovating the platform for global efficiency.
+Roomex, a forefront in workforce travel solutions, offers a user-centric platform with personalized hotel bookings,
+expense management, and real-time analytics.
 
 ....
 ....
