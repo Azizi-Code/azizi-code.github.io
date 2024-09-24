@@ -79,7 +79,7 @@ vulnerabilities. By providing detailed scan reports, it helps companies make the
 
 - Contributed to the development of a large monolithic web security scanner app using C# and WinForms.
 - Worked on the application's core, following the onion architecture, and applied a range of design patterns, including composite, decorator, singleton, factory, builder, chain of responsibility, and facade.
-- Implemented file inclusion and refactoring of old SQL injection scanners in the core of the project.
+- Implemented new requirements and refactoring of old implementations in the core of the project.
 - Collected research team requirements and implemented solutions, according to research.
 - Created several crawlers using the .Net Framework and the HtmlAgilityPack library.
 - Utilized LINQ for querying business objects and used LINQ to SQL to develop a data access layer.
